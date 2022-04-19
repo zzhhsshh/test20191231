@@ -3,3 +3,6 @@
 本地到github测试.txt
 本地到github测试.txt
 本地到github测试.txt
+ssh -T git@github.com
+ssh -T git@github.com
+ssh -T git@github.com
