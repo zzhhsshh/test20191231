@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 本地到github测试.txt
 本地到github测试.txt
 本地到github测试.txt
@@ -6,3 +7,6 @@
 ssh -T git@github.com
 ssh -T git@github.com
 ssh -T git@github.com
+=======
+teacher
+>>>>>>> 85b38fb991b90e847df0934499fcb306c0815ec7
